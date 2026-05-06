@@ -1,0 +1,60 @@
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage*
+
+### Environments
+.env
+.venv/
+venv/
+ENV/
+
+### IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+### Jupyter
+.ipynb_checkpoints/
+
+### Training artifacts / logs
+wandb/
+tensorboard/
+runs/
+logs/
+checkpoints/
+weights/
+**/weights/
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.engine
+
+### Submissions / exports
+submission*.txt
+submission*.csv
+
+### Archives (explicitly requested)
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+
+### Datasets (mounted into docker as /data and /dataset)
+data/
+dataset/
+
+### Not used by the training entrypoints in this repo
+videocompressiondetection/
