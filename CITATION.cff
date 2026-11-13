@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: Reproducing Paired-Sampling Contrastive Framework for Joint Physical-Digital Face Attack Detection
+authors:
+    - family-names: Nagtode
+    given-names: Priti
+    orcid: https://orcid.org/0009-0000-0000-0000
+message: "If you use this reproduction, please cite this repository."
+repository-code: https://github.com/pritin-ship-it/iccv2025_deepfake_challenge
+license: MIT
