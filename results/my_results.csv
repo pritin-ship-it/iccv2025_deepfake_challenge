@@ -1,0 +1,4 @@
+Metric,Paper,Mine,Difference,Note
+ACER,3.6,0.0,-3.6,1 seed 2 epochs n=160
+Accuracy,96.4,100.0,3.6,1 seed 2 epochs n=160
+AUC,99.1,100.0,0.9,1 seed 2 epochs n=160
