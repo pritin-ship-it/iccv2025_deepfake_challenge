@@ -1,0 +1,5 @@
+Run: 2 epochs, batch 32, seed 0, n=160 (80 Live, 80 Attack)
+Epoch 1 Train Loss: 0.1390
+Epoch 2 Train Loss: 0.0002
+Validation: ACER 0.00%, Accuracy 100%, AUC 100%
+Outcome: Partly reproduced - loss collapse indicates overfitting
